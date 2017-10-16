@@ -1,0 +1,2 @@
+# SSS
+SmallScaleShop repository
